@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="./void-header.svg" width="100%" alt="Void Blount: whoami, profile and skills">
 </p>
 
