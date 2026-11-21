@@ -1,0 +1,50 @@
+ ██╗   ██╗ ██████╗ ██╗██████╗
+ ██║   ██║██╔═══██╗██║██╔══██╗
+ ██║   ██║██║   ██║██║██║  ██║
+ ╚██╗ ██╔╝██║   ██║██║██║  ██║
+  ╚████╔╝ ╚██████╔╝██║██████╔╝
+   ╚═══╝   ╚═════╝ ╚═╝╚═════╝
+
+void ~ % void
+Just a nerd who likes the unknown.
+
+12+ years exploring Linux, IT, and the systems
+that keep the web running.
+
+void ~ % void --about
+Interested in understanding how things work,
+exploring new technologies, and building tools
+that give me more control over my digital world.
+
+Less dependency on third-party services.
+More ownership of my data, my tools, and
+my infrastructure.
+
+void ~ % void --skills
+SYSTEMS      Linux, Ubuntu, Bash
+INFRA        Nginx, Apache, Docker
+CLOUD        AWS, GCP
+DATABASES    MySQL, MariaDB
+MONITORING   New Relic, Grafana
+LANGUAGES    Python, PHP, SQL
+
+void ~ % void --interests
+self-hosting/
+automation/
+python/
+web-development/
+personal-tools/
+experiments/
+
+void ~ % void --website
+URL      https://voidex.io
+STATUS   WIP
+
+void ~ % void --motto
+Keep exploring. Keep building. Stay curious.
+
+void ~ % _
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=voidexio&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
