@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./void-skills.svg" width="100%" alt="Void Blount: whoami, profile and skills">
+  <img src="./void-header.svg" width="100%" alt="Void Blount: whoami, profile and skills">
 </p>
 
 <p align="center">
